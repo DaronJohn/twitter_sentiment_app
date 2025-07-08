@@ -1,4 +1,4 @@
-# Twitter Sentiment App
+# Twitter Sentiment Classifier App
 
 A simple machine learning web app that classifies tweets as **Positive** or **Negative** using natural language processing and logistic regression. Built with Python, Scikit-learn, and deployed using Streamlit.
 
