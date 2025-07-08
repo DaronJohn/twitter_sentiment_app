@@ -1,4 +1,4 @@
-# Twitter Sentiment Classifier
+# Twitter Sentiment App
 
 A simple machine learning web app that classifies tweets as **Positive** or **Negative** using natural language processing and logistic regression. Built with Python, Scikit-learn, and deployed using Streamlit.
 
@@ -60,7 +60,7 @@ python -m streamlit run app.py
 - Model: Logistic Regression
 - Vectorizer: TF-IDF
 - Task: Binary sentiment classification (Positive or Negative)
-- Dataset:[Twitter sentiment dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
+- Dataset: [Twitter sentiment dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ## 📚 Based On
 
